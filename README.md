@@ -1,4 +1,5 @@
-#Coding Chaos 
+Coding Chaos 
+
 Project : Dental Clinic System
 
  Automatization and the decrement of the human intervention is basically the main course all businesses are following to succeed in an environment where the customer satisfaction is crucial. This model businesses are following provides fast service,transparency, easy access by the customers and as a result more successful business and more loyal clients who are satifyied with your service.
