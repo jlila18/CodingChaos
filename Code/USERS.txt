@@ -1,0 +1,28 @@
+Users
+
+Admin
+USERNAME: admin@gmail.com
+PASSWORD: 123
+
+Doctor
+USERNAME: blina@gmail.com
+PASSWORD: blina123
+
+Receptionist
+USERNAME: fiorela@gmail.com
+PASSWORD: f123
+
+Patient
+USERNAME: ina@gmail.com
+PASSWORD: ina123
+
+Economist
+USERNAME: tomi@gmail.com
+PASSWORD: tomi123
+
+
+
+
+
+
+
