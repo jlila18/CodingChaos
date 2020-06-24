@@ -7,6 +7,6 @@ How to install E-Dent web application:
 4- Go to localhost/EDent2020/index.php
 
 E-Dent system is an web application, you can find it online on
-http://stud-proj.epoka.edu.al/~xhajdari17/binf19/SoftwareEng2020/
+http://stud-proj.epoka.edu.al/~xhajdari17/binf19/EDent2020/
 or
 github https://github.com/bkeraj/CodingChaos/tree/master/Code
